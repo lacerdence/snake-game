@@ -16,7 +16,7 @@ The Snake game is a classic arcade-style video game where the player controls a 
 - Swing
 
 ## Back end
-Pré-requisitos: Java 23
+Prerequisites: Java 23
 
 # Author
 
