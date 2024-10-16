@@ -22,4 +22,4 @@ Pré-requisitos: Java 23
 
 Antonio Vinnicius Lacerda
 
-[https://www.linkedin.com/in/wmazoni](https://www.linkedin.com/in/antonio-vinnicius-lacerda/)
+[https://www.linkedin.com/in/antonio-vinnicius-lacerda](https://www.linkedin.com/in/antonio-vinnicius-lacerda/)
